@@ -52,6 +52,11 @@ The project uses Python, SQL, Excel, and Power BI to perform data cleaning, expl
 ## 📊 Dashboard
 
 An interactive Power BI dashboard was created to visualize bike-sharing demand and identify important trends and patterns.
+## 📊 Dashboard
+
+An interactive Power BI dashboard was created to visualize bike-sharing demand and identify important trends and patterns.
+
+![Power BI Dashboard]
 
 ## 💡 Key Areas Analyzed
 
